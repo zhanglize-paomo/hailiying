@@ -1,0 +1,9 @@
+﻿Group: Payment methods
+FriendlyName: AliPay - hygains
+SystemName: Payments.AliPay1
+Version: 1.00
+SupportedVersions: 3.90
+Author: hygains team
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.AliPay.dll
+Description: hygains专用支付宝插件,付款模块

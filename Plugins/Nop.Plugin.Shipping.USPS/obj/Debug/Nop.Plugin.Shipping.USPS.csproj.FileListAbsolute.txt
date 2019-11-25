@@ -1,0 +1,12 @@
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Shipping.USPS\Views\Configure.cshtml
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Shipping.USPS\web.config
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Shipping.USPS\Description.txt
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Shipping.USPS\logo.jpg
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll.config
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.pdb
+D:\projects\nop3.90\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.csproj.App.config
+D:\projects\nop3.90\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.csprojAssemblyReference.cache
+D:\projects\nop3.90\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.csproj.CoreCompileInputs.cache
+D:\projects\nop3.90\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.dll
+D:\projects\nop3.90\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.pdb

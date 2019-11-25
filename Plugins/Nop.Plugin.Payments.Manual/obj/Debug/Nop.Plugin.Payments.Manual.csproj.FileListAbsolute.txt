@@ -1,0 +1,13 @@
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.Manual\Views\Configure.cshtml
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentInfo.cshtml
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.Manual\Description.txt
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.Manual\web.config
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll.config
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csproj.App.config
+D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csprojAssemblyReference.cache
+D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csproj.CoreCompileInputs.cache
+D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
+D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb

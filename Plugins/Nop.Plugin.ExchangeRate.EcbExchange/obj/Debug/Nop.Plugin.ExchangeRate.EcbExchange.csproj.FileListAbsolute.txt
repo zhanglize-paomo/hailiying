@@ -1,0 +1,9 @@
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Description.txt
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll.config
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+D:\projects\nop3.90\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csprojAssemblyReference.cache
+D:\projects\nop3.90\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csproj.CoreCompileInputs.cache
+D:\projects\nop3.90\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.dll
+D:\projects\nop3.90\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.pdb

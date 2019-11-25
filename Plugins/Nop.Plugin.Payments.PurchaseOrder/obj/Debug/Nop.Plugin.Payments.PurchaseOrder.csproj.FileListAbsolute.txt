@@ -1,0 +1,13 @@
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\Configure.cshtml
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentInfo.cshtml
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csproj.App.config
+D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csproj.CoreCompileInputs.cache
+D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb
+D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csprojAssemblyReference.cache

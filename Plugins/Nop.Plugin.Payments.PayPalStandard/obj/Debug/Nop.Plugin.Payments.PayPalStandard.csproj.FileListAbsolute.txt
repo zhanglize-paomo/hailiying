@@ -1,0 +1,13 @@
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\Configure.cshtml
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentInfo.cshtml
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\web.config
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll.config
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csproj.App.config
+D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csproj.CoreCompileInputs.cache
+D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
+D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb
+D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csprojAssemblyReference.cache

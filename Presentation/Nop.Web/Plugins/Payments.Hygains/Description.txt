@@ -1,0 +1,9 @@
+﻿Group: Payment methods
+FriendlyName: Hygains - Alipay
+SystemName: Payments.Hygains
+Version: 1.02
+SupportedVersions: 3.90
+Author: Hygains team
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.Hygains.dll
+Description: Hygains付款1.03 - 支付宝二维码

@@ -1,0 +1,14 @@
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_CountryStateZip.cshtml
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Description.txt
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\web.config
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_FixedRate.cshtml
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\Configure.cshtml
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\logo.jpg
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll.config
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+D:\projects\nop3.90\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
+D:\projects\nop3.90\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.App.config
+D:\projects\nop3.90\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csprojAssemblyReference.cache
+D:\projects\nop3.90\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.CoreCompileInputs.cache
+D:\projects\nop3.90\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+D:\projects\nop3.90\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
