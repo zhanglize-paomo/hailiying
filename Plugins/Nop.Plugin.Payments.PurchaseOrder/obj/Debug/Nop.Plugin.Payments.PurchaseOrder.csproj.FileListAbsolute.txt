@@ -11,3 +11,15 @@ D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plug
 D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
 D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb
 D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csprojAssemblyReference.cache
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\Configure.cshtml
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentInfo.cshtml
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csproj.App.config
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csproj.CoreCompileInputs.cache
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb

@@ -11,3 +11,16 @@ D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugi
 D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csproj.CopyComplete
 D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
 D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\Configure.cshtml
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentInfo.cshtml
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\web.config
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Description.txt
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\logo.jpg
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll.config
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojAssemblyReference.cache
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csproj.CoreCompileInputs.cache
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csproj.CopyComplete
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb

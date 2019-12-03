@@ -10,6 +10,7 @@ using Nop.Services.Catalog;
 using Nop.Services.Common;
 using Nop.Services.Configuration;
 using Nop.Services.Localization;
+
 using Nop.Services.Logging;
 using Nop.Services.Orders;
 using Nop.Services.Stores;

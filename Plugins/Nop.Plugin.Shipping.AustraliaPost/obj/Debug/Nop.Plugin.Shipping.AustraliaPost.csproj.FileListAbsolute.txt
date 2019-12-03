@@ -10,3 +10,15 @@ D:\projects\nop3.90\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plug
 D:\projects\nop3.90\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csproj.CoreCompileInputs.cache
 D:\projects\nop3.90\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.dll
 D:\projects\nop3.90\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.pdb
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Views\Configure.cshtml
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Description.txt
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\web.config
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\logo.jpg
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll.config
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.pdb
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csproj.App.config
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csprojAssemblyReference.cache
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csproj.CoreCompileInputs.cache
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.dll
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.pdb

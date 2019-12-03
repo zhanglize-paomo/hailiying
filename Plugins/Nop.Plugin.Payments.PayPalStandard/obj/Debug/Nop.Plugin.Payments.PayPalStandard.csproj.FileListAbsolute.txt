@@ -11,3 +11,15 @@ D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plu
 D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
 D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb
 D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csprojAssemblyReference.cache
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\Configure.cshtml
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentInfo.cshtml
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\web.config
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll.config
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csproj.App.config
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csproj.CoreCompileInputs.cache
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb

@@ -11,3 +11,16 @@ D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Paym
 D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csproj.CoreCompileInputs.cache
 D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
 D:\projects\nop3.90\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.Manual\Views\Configure.cshtml
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentInfo.cshtml
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.Manual\Description.txt
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.Manual\web.config
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll.config
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csproj.App.config
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csprojAssemblyReference.cache
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csproj.CoreCompileInputs.cache
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb
