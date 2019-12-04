@@ -1,0 +1,9 @@
+﻿Group: Payment methods
+FriendlyName: YunShanFu
+SystemName: Payments.YunShanFu
+Version: 1.01
+SupportedVersions: 3.90
+Author: Hygains team
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.YunShanFu.dll
+Description: Hygains银联-云闪付支付插件

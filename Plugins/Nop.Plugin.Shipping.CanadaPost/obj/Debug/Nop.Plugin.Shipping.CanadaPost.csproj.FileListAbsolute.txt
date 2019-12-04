@@ -16,7 +16,6 @@ D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\logo.jpg
 D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll.config
 D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll
 D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.pdb
-D:\hailiying\hailiying\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.csprojAssemblyReference.cache
 D:\hailiying\hailiying\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.csproj.CoreCompileInputs.cache
 D:\hailiying\hailiying\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.dll
 D:\hailiying\hailiying\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.pdb

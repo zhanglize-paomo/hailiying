@@ -1,0 +1,2 @@
+Payments.AliPay1
+Payments.Hygains
