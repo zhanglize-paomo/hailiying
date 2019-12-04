@@ -28,7 +28,7 @@ namespace Nop.Web.Controllers
 		#region Constructors
 
         public BackInStockSubscriptionController(IProductService productService,
-            IWorkContext workContext, 
+            IWorkContext      workContext, 
             IStoreContext storeContext,
             ILocalizationService localizationService,
             IBackInStockSubscriptionService backInStockSubscriptionService,
