@@ -68,7 +68,6 @@ D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugi
 D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.dll
 D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.pdb
 D:\hailiying\hailiying\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.csproj.App.config
-D:\hailiying\hailiying\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.csprojAssemblyReference.cache
 D:\hailiying\hailiying\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.csproj.CoreCompileInputs.cache
 D:\hailiying\hailiying\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.dll
 D:\hailiying\hailiying\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.pdb

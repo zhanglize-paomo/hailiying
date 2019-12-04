@@ -18,6 +18,7 @@ D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Sh
 D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll
 D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.pdb
 D:\hailiying\hailiying\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.csproj.App.config
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.csprojAssemblyReference.cache
 D:\hailiying\hailiying\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.csproj.CoreCompileInputs.cache
 D:\hailiying\hailiying\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.dll
 D:\hailiying\hailiying\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.pdb

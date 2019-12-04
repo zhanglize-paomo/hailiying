@@ -1,0 +1,12 @@
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.HygainsA\Views\Configure.cshtml
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.HygainsA\Views\PaymentInfo.cshtml
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.HygainsA\web.config
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.HygainsA\Description.txt
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.HygainsA\logo.png
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.HygainsA\Nop.Plugin.Payments.HygainsA.dll.config
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.HygainsA\Nop.Plugin.Payments.HygainsA.dll
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.HygainsA\Nop.Plugin.Payments.HygainsA.pdb
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.HygainsA\obj\Debug\Nop.Plugin.Payments.HygainsA.csprojAssemblyReference.cache
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.HygainsA\obj\Debug\Nop.Plugin.Payments.HygainsA.csproj.CoreCompileInputs.cache
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.HygainsA\obj\Debug\Nop.Plugin.Payments.HygainsA.dll
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.HygainsA\obj\Debug\Nop.Plugin.Payments.HygainsA.pdb

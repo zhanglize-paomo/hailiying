@@ -1,0 +1,15 @@
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.Square\Content\styles.css
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.Square\Views\Configure.cshtml
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.Square\Views\PaymentInfo.cshtml
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.Square\Description.txt
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.Square\web.config
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.Square\Views\OnePageCheckoutScript.cshtml
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.Square\logo.png
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.dll.config
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.dll
+D:\hailiying\hailiying\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.pdb
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.Square\obj\Debug\Nop.Plugin.Payments.Square.csprojAssemblyReference.cache
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.Square\obj\Debug\Nop.Plugin.Payments.Square.csproj.CoreCompileInputs.cache
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.Square\obj\Debug\Nop.Plugin.Payments.Square.csproj.CopyComplete
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.Square\obj\Debug\Nop.Plugin.Payments.Square.dll
+D:\hailiying\hailiying\Plugins\Nop.Plugin.Payments.Square\obj\Debug\Nop.Plugin.Payments.Square.pdb

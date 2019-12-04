@@ -1,2 +1,2 @@
-DataProvider: 
-DataConnectionString: 
+DataProvider: sqlserver
+DataConnectionString: Data Source=hailiying.database.chinacloudapi.cn;Initial Catalog=shop;Integrated Security=False;Persist Security Info=False;User ID=hailiyingadmin;Password=yaobeibei123456a*
