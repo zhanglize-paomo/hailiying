@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Presentation",
-    "\\Presentation\\Nop.Web",
-    "\\Presentation\\Nop.Web\\Content"
+    "\\Plugins",
+    "\\Plugins\\Nop.Plugin.Payments.HygainsA"
   ],
-  "SelectedNode": "\\Presentation\\Nop.Web",
+  "SelectedNode": "\\Plugins\\Nop.Plugin.Payments.HygainsA\\app.config",
   "PreviewInSolutionExplorer": false
 }

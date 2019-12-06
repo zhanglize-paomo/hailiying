@@ -57,7 +57,6 @@ D:\hailiying\hailiying\Libraries\Nop.Core\bin\Debug\System.Web.Razor.xml
 D:\hailiying\hailiying\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.xml
 D:\hailiying\hailiying\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Deployment.xml
 D:\hailiying\hailiying\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Razor.xml
-D:\hailiying\hailiying\Libraries\Nop.Core\obj\Debug\Nop.Core.csprojAssemblyReference.cache
 D:\hailiying\hailiying\Libraries\Nop.Core\obj\Debug\Nop.Core.csproj.CoreCompileInputs.cache
 D:\hailiying\hailiying\Libraries\Nop.Core\obj\Debug\Nop.Core.csproj.CopyComplete
 D:\hailiying\hailiying\Libraries\Nop.Core\obj\Debug\Nop.Core.dll
